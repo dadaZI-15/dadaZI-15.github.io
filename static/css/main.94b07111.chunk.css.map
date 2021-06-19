@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KAGE,eACF,CAEA,qBAEE,gBACF","file":"main.94b07111.chunk.css","sourcesContent":["html {\n  /* rem em 16 * 62.5% = 10px\n  1 rem === 10px */\n  font-size: 62.5%;\n}\n\nhtml body #root .App {\n  /* viewport height === vh */\n  min-height: 100vh;\n}\n"]}
